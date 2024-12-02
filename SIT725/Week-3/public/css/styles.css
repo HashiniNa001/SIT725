@@ -1,0 +1,36 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 20px;
+}
+
+
+.hero {
+    position: relative;
+    background-color: #e3f2fd; 
+    padding: 50px 0;
+  }
+  
+
+  .hero-image {
+    max-width: 100%; 
+    height: auto; 
+    margin-bottom: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+  }
+  
+
+  .hero h1 {
+    margin: 5px 0; 
+  }
+  
+
+  .hero a {
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
